@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## web developer 😜
+## budding developer 😺
+
 <!--
 **nasibogalgalo/nasibogalgalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
